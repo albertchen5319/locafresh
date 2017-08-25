@@ -1,0 +1,19 @@
+{
+  "name": "locafresh",
+  "version": "1.0.0",
+  "description": "website",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "ejs": "^2.5.7",
+    "express": "^4.15.4",
+    "express-validator": "^3.2.1",
+    "mongoose": "^4.11.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

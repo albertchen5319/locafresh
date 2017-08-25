@@ -1,0 +1,8 @@
+<% include partials/header %>
+    <h1>Items</h1>
+    <u1>
+    <% items.forEach(function(item){ %>
+        <li><%= item.name %></li>
+    <% }) %>
+    </u1>
+<% include partials/footer %>
